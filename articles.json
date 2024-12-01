@@ -1,51 +1,78 @@
 ﻿[
   {
-    "title": "Уход за растением - Ховея",
-    "url": "hoveya.html"
+    "title": "Ховея",
+    "url": "hoveya.html",
+    "icon": 🪴
   },
   {
-    "title": "Уход за растением - Спатифиллум",
-    "url": "spatifillum.html"
+    "title": "Спатифиллум",
+    "url": "spatifillum.html",
+    "icon": 🪴
   },
   {
-    "title": "Уход за растением - Фикус микрокарпа",
-    "url": "fikus-mikrokarpa.html"
+    "title": "Фикус Микрокарпа",
+    "url": "fikus-mikrokarpa.html",
+    "icon": 🪴 
   },
   {
-    "title": "Уход за растением - Бригамия",
-    "url": "brigamiya.html"
+    "title": "Бригамия",
+    "url": "brigamiya.html",
+    "icon": 🪴
   },
   {
-    "title": "Уход за растением - Монантес",
-    "url": "monantes.html"
+    "title": "Монантес",
+    "url": "monantes.html",
+    "icon": 🪴
   },
   {
-    "title": "Уход за растением - Алоэ Столетник",
-    "url": "aloe-stoletnik.html"
+    "title": "Алоэ Столетник",
+    "url": "aloe-stoletnik.html",
+    "icon": 🪴
   },
   {
-    "title": "Уход за растением - Герань",
-    "url": "geran.html"
+    "title": "Герань",
+    "url": "geran.html",
+    "icon": 🪴
   },
   {
-    "title": "Уход за растением - Фикус Панда",
-    "url": "fikus-panda.html"
+    "title": "Фикус Панда",
+    "url": "fikus-panda.html",
+    "icon": 🪴
   },
   {
-    "title": "Уход за растением - Орхидея целогина",
-    "url": "orhideya-tselogina.html"
+    "title": "Орхидея Целогина",
+    "url": "orhideya-tselogina.html",
+    "icon": 🪴
   },
   {
-    "title": "Уход за растением - Орхидея лудизия",
-    "url": "orhideya-ludiziya.html"
+    "title": "Орхидея Лудизия",
+    "url": "orhideya-ludiziya.html",
+    "icon": 🪴
   },
   {
-    "title": "Уход за растением - Драцена",
-    "url": "dracena-uxod-i-razmnozhenie.html"
+    "title": "Драцена",
+    "url": "dracena-uxod-i-razmnozhenie.html",
+    "icon": 🪴
   },
   {
-    "title": "Болезни и вредители комнатных растений",
-    "url": "bolezni-i-vrediteli-komnatnyx-rastenij.html"
+    "title": "Удобрения",
+    "url": "udobreniya-dlya-komnatnyx-rastenij.html",
+    "icon": 🌱
+  }
+  {
+    "title": "Болезни и вредители",
+    "url": "bolezni-i-vrediteli-komnatnyx-rastenij.html",
+    "icon": 🥀
+  },
+  {
+    "title": "Повреждения",
+    "url": "povrejdenia-rastenij.html",
+    "icon": 🍃
+  },
+  {
+    "title": "Влияние сезонов",
+    "url": "sezony-rastenij.html",
+    "icon": 🍂
   },
   {
     "title": "Свет для комнатных растений",
@@ -54,17 +81,7 @@
   {
     "title": "Способы размножения комнатных растений",
     "url": "sposoby-razmnozheniya-komnatnyh-rastenij.html"
-  },
-  {
-    "title": "Удобрения для комнатных растений",
-    "url": "udobreniya-dlya-komnatnyx-rastenij.html"
-  },
-  {
-    "title": "Повреждения растений",
-    "url": "povrejdenia-rastenij.html"
-  },
-  {
-    "title": "Влияние сезонов на растения",
-    "url": "sezony-rastenij.html"
   }
 ]
+  
+ 
