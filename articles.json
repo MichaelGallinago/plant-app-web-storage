@@ -2,85 +2,87 @@
   {
     "title": "Ховея",
     "url": "hoveya.html",
-    "icon": 🪴
+    "icon": "🪴"
   },
   {
     "title": "Спатифиллум",
     "url": "spatifillum.html",
-    "icon": 🪴
+    "icon": "🪴"
   },
   {
     "title": "Фикус Микрокарпа",
     "url": "fikus-mikrokarpa.html",
-    "icon": 🪴 
+    "icon": "🪴"
   },
   {
     "title": "Бригамия",
     "url": "brigamiya.html",
-    "icon": 🪴
+    "icon": "🪴"
   },
   {
     "title": "Монантес",
     "url": "monantes.html",
-    "icon": 🪴
+    "icon": "🪴"
   },
   {
     "title": "Алоэ Столетник",
     "url": "aloe-stoletnik.html",
-    "icon": 🪴
+    "icon": "🪴"
   },
   {
     "title": "Герань",
     "url": "geran.html",
-    "icon": 🪴
+    "icon": "🪴"
   },
   {
     "title": "Фикус Панда",
     "url": "fikus-panda.html",
-    "icon": 🪴
+    "icon": "🪴"
   },
   {
     "title": "Орхидея Целогина",
     "url": "orhideya-tselogina.html",
-    "icon": 🪴
+    "icon": "🪴"
   },
   {
     "title": "Орхидея Лудизия",
     "url": "orhideya-ludiziya.html",
-    "icon": 🪴
+    "icon": "🪴"
   },
   {
     "title": "Драцена",
     "url": "dracena-uxod-i-razmnozhenie.html",
-    "icon": 🪴
+    "icon": "🪴"
   },
   {
     "title": "Удобрения",
     "url": "udobreniya-dlya-komnatnyx-rastenij.html",
-    "icon": 🌱
-  }
+    "icon": "🌱"
+  },
   {
     "title": "Болезни и вредители",
     "url": "bolezni-i-vrediteli-komnatnyx-rastenij.html",
-    "icon": 🥀
+    "icon": "🥀"
   },
   {
     "title": "Повреждения",
     "url": "povrejdenia-rastenij.html",
-    "icon": 🍃
+    "icon": "🍃"
   },
   {
     "title": "Влияние сезонов",
     "url": "sezony-rastenij.html",
-    "icon": 🍂
+    "icon": "🍂"
   },
   {
     "title": "Свет для комнатных растений",
-    "url": "svet-dlya-komnatnyx-rastenij.html"
+    "url": "svet-dlya-komnatnyx-rastenij.html",
+    "icon": ""
   },
   {
     "title": "Способы размножения комнатных растений",
-    "url": "sposoby-razmnozheniya-komnatnyh-rastenij.html"
+    "url": "sposoby-razmnozheniya-komnatnyh-rastenij.html",
+    "icon": ""
   }
 ]
   
