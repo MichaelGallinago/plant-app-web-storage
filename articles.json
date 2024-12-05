@@ -1,79 +1,77 @@
 ﻿[
   {
     "title": "Ховея",
-    "url": "hoveya.html",
+    "name": "hoveya",
     "icon": "🪴"
   },
   {
     "title": "Спатифиллум",
-    "url": "spatifillum.html",
+    "name": "spatifillum",
     "icon": "🪴"
   },
   {
     "title": "Фикус Микрокарпа",
-    "url": "fikus-mikrokarpa.html",
+    "name": "fikus-mikrokarpa",
     "icon": "🪴"
   },
   {
     "title": "Бригамия",
-    "url": "brigamiya.html",
+    "name": "brigamiya",
     "icon": "🪴"
   },
   {
     "title": "Монантес",
-    "url": "monantes.html",
+    "name": "monantes",
     "icon": "🪴"
   },
   {
     "title": "Алоэ Столетник",
-    "url": "aloe-stoletnik.html",
+    "name": "aloe-stoletnik",
     "icon": "🪴"
   },
   {
     "title": "Герань",
-    "url": "geran.html",
+    "name": "geran",
     "icon": "🪴"
   },
   {
     "title": "Фикус Панда",
-    "url": "fikus-panda.html",
+    "name": "fikus-panda",
     "icon": "🪴"
   },
   {
     "title": "Орхидея Целогина",
-    "url": "orhideya-tselogina.html",
+    "name": "orhideya-tselogina",
     "icon": "🪴"
   },
   {
     "title": "Орхидея Лудизия",
-    "url": "orhideya-ludiziya.html",
+    "name": "orhideya-ludiziya",
     "icon": "🪴"
   },
   {
     "title": "Драцена",
-    "url": "dracena-uxod-i-razmnozhenie.html",
+    "name": "dracena-uxod-i-razmnozhenie",
     "icon": "🪴"
   },
   {
     "title": "Удобрения",
-    "url": "udobreniya-dlya-komnatnyx-rastenij.html",
+    "name": "udobreniya-dlya-komnatnyx-rastenij",
     "icon": "🌱"
   },
   {
     "title": "Болезни и вредители",
-    "url": "bolezni-i-vrediteli-komnatnyx-rastenij.html",
+    "name": "bolezni-i-vrediteli-komnatnyx-rastenij",
     "icon": "🥀"
   },
   {
     "title": "Повреждения",
-    "url": "povrejdenia-rastenij.html",
+    "name": "povrejdenia-rastenij",
     "icon": "🍃"
   },
   {
     "title": "Влияние сезонов",
-    "url": "sezony-rastenij.html",
+    "name": "sezony-rastenij",
     "icon": "🍂"
   }
 ]
-  
- 
