@@ -32,7 +32,8 @@ img {
 }
 
 .nav { 
-    margin-bottom: 20px; 
+    margin-bottom: 20px;
+    line-height: 10px; 
 }
 
 .nav a { 
@@ -40,6 +41,7 @@ img {
     color: #6a1b9a; 
     text-decoration: none; 
     font-weight: bold; /* Жирный текст для навигации */
+    text-decoration: underline;
 }
 
 .nav a:hover { 
