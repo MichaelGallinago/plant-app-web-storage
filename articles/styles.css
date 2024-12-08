@@ -20,7 +20,7 @@ h1, h3 {
 
 h2 { 
     color: #6a1b9a; /* Темный фиолетовый цвет для заголовков */
-    font-size: 10px;
+    font-size: 20px;
 }
 
 img { 
@@ -38,7 +38,7 @@ img {
 
 .nav { 
     margin-bottom: 20px;
-    line-height: 50px; 
+    line-height: 40px; 
 }
 
 .nav a { 
