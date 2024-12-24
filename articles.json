@@ -60,6 +60,11 @@
     "icon": "11.webp"
   },
   {
+    "title": "Фиалка",
+    "name": "fialka",
+    "icon": "fialka.webp"
+  },
+  {
     "title": "Удобрения",
     "name": "udobreniya-dlya-komnatnyx-rastenij",
     "icon": "udobreniya.webp"
