@@ -30,6 +30,11 @@
     "icon": "monantes.webp"
   },
   {
+    "title": "Мухоловка",
+    "name": "muholovka",
+    "icon": "muholovka.png"
+  },
+  {
     "title": "Опунция беловолосая",
     "name": "opuntsiya",
     "icon": "opuntsii.png"
