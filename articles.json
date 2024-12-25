@@ -1,58 +1,8 @@
 ﻿[
   {
-    "title": "Ховея",
-    "name": "hoveya",
-    "icon": "hoveya.webp"
-  },
-  {
-    "title": "Спатифиллум",
-    "name": "spatifillum",
-    "icon": "spatifillum.webp"
-  },
-  {
-    "title": "Фикус Микрокарпа",
-    "name": "fikus-mikrokarpa",
-    "icon": "fikus-mikrokarpa.webp"
-  },
-  {
-    "title": "Бригамия",
-    "name": "brigamiya",
-    "icon": "brigamiya.webp"
-  },
-  {
-    "title": "Монантес",
-    "name": "monantes",
-    "icon": "monantes.webp"
-  },
-  {
     "title": "Алоэ Столетник",
     "name": "aloe-stoletnik",
     "icon": "aloe-stoletnik.webp"
-  },
-  {
-    "title": "Герань",
-    "name": "geran",
-    "icon": "geran.webp"
-  },
-  {
-    "title": "Фикус Панда",
-    "name": "fikus-panda",
-    "icon": "fikus-panda.webp"
-  },
-  {
-    "title": "Орхидея Целогина",
-    "name": "orhideya-tselogina",
-    "icon": "orhideya-tselogina.webp"
-  },
-  {
-    "title": "Орхидея Лудизия",
-    "name": "orhideya-ludiziya",
-    "icon": "orhideya-ludiziya.webp"
-  },
-  {
-    "title": "Драцена",
-    "name": "dracena",
-    "icon": "dracena.webp"
   },
   {
     "title": "Бегония",
@@ -60,9 +10,14 @@
     "icon": "11.webp"
   },
   {
-    "title": "Фиалка",
-    "name": "fialka",
-    "icon": "fialka.webp"
+    "title": "Бригамия",
+    "name": "brigamiya",
+    "icon": "brigamiya.webp"
+  },
+  {
+    "title": "Драцена",
+    "name": "dracena",
+    "icon": "dracena.webp"
   },
   {
     "title": "Замиокулькас",
@@ -70,9 +25,54 @@
     "icon": "zamiokulkas.webp"
   },
   {
+    "title": "Монантес",
+    "name": "monantes",
+    "icon": "monantes.webp"
+  },
+  {
     "title": "Опунция беловолосая",
     "name": "opuntsiya",
     "icon": "opuntsii.png"
+  },
+  {
+    "title": "Орхидея Лудизия",
+    "name": "orhideya-ludiziya",
+    "icon": "orhideya-ludiziya.webp"
+  },
+  {
+    "title": "Орхидея Целогина",
+    "name": "orhideya-tselogina",
+    "icon": "orhideya-tselogina.webp"
+  },
+  {
+    "title": "Спатифиллум",
+    "name": "spatifillum",
+    "icon": "spatifillum.webp"
+  },
+  {
+    "title": "Фиалка",
+    "name": "fialka",
+    "icon": "fialka.webp"
+  },
+  {
+    "title": "Фикус Микрокарпа",
+    "name": "fikus-mikrokarpa",
+    "icon": "fikus-mikrokarpa.webp"
+  },
+  {
+    "title": "Фикус Панда",
+    "name": "fikus-panda",
+    "icon": "fikus-panda.webp"
+  },
+  {
+    "title": "Герань",
+    "name": "geran",
+    "icon": "geran.webp"
+  },
+  {
+    "title": "Ховея",
+    "name": "hoveya",
+    "icon": "hoveya.webp"
   },
   {
     "title": "Удобрения",
