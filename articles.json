@@ -50,6 +50,11 @@
     "icon": "spatifillum.webp"
   },
   {
+    "title": "Фаленопсис",
+    "name": "falenopsis",
+    "icon": "falenopsis.webp"
+  },
+  {
     "title": "Фиалка",
     "name": "fialka",
     "icon": "fialka.webp"
