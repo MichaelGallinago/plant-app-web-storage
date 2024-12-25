@@ -30,6 +30,11 @@
     "icon": "monantes.webp"
   },
   {
+    "title": "Мухоловка",
+    "name": "muholovka",
+    "icon": "muholovka.png"
+  },
+  {
     "title": "Опунция беловолосая",
     "name": "opuntsiya",
     "icon": "opuntsii.png"
@@ -52,7 +57,7 @@
   {
     "title": "Фаленопсис",
     "name": "falenopsis",
-    "icon": "falenopsis.webp"
+    "icon": "falenopsis.png"
   },
   {
     "title": "Фиалка",
