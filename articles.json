@@ -90,6 +90,11 @@
     "icon": "hoveya.webp"
   },
   {
+    "title": "Шеффлера",
+    "name": "hoveya",
+    "icon": "shefflera.png"
+  },
+  {
     "title": "Удобрения",
     "name": "udobreniya-dlya-komnatnyx-rastenij",
     "icon": "udobreniya.webp"
