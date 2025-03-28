@@ -78,3 +78,27 @@ img {
     font-weight: bold; /* Жирный текст для навигации */
     text-decoration: underline;
 }
+
+summary {
+    cursor: pointer;
+    list-style: none; /* убираем стандартный маркер */
+}
+
+summary::-webkit-details-marker {
+    display: none; /* убираем маркер в WebKit */
+}
+
+summary h2 {
+    display: inline; /* чтобы плюсик был рядом с заголовком */
+    margin-left: 20px;
+}
+
+details[open] summary h2::before {
+    content: "▼";
+    margin-left: -20px;
+}
+
+details:not([open]) summary h2::before {
+    content: "►";
+    margin-left: -20px;
+}
