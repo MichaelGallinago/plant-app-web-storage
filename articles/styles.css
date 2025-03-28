@@ -80,25 +80,29 @@ img {
 }
 
 summary {
+    display: block; /* или flex, в зависимости от нужного поведения */
     cursor: pointer;
-    list-style: none; /* убираем стандартный маркер */
+    padding: 0;
+    margin: 0;
+    list-style: none;
 }
 
 summary::-webkit-details-marker {
-    display: none; /* убираем маркер в WebKit */
+    display: none;
 }
 
 summary h2 {
-    display: inline; /* чтобы плюсик был рядом с заголовком */
-    margin-left: 20px;
+    display: inline-block; /* или inline */
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
 }
+
 
 details[open] summary h2::before {
     content: "▼";
-    margin-left: -20px;
 }
 
 details:not([open]) summary h2::before {
     content: "►";
-    margin-left: -20px;
 }
