@@ -1,0 +1,127 @@
+﻿[
+  {
+    "title": "Алоэ Столетник",
+    "name": "aloe-stoletnik",
+    "icon": "aloe-stoletnik.webp"
+  },
+  {
+    "title": "Антриум",
+    "name": "anturiumom",
+    "icon": "Антриум.png"
+  },
+  {
+    "title": "Азалия",
+    "name": "azalia",
+    "icon": "azalia.png"
+  },
+  {
+    "title": "Бегония",
+    "name": "begoniy",
+    "icon": "11.webp"
+  },
+  {
+    "title": "Бригамия",
+    "name": "brigamiya",
+    "icon": "brigamiya.webp"
+  },
+  {
+    "title": "Драцена",
+    "name": "dracena",
+    "icon": "dracena.webp"
+  },
+  {
+    "title": "Замиокулькас",
+    "name": "zamiokulkas",
+    "icon": "zamiokulkas.webp"
+  },
+  {
+    "title": "Монантес",
+    "name": "monantes",
+    "icon": "monantes.webp"
+  },
+  {
+    "title": "Мухоловка",
+    "name": "muholovka",
+    "icon": "muholovka.png"
+  },
+  {
+    "title": "Опунция беловолосая",
+    "name": "opuntsiya",
+    "icon": "opuntsii.png"
+  },
+  {
+    "title": "Орхидея Лудизия",
+    "name": "orhideya-ludiziya",
+    "icon": "orhideya-ludiziya.webp"
+  },
+  {
+    "title": "Орхидея Целогина",
+    "name": "orhideya-tselogina",
+    "icon": "orhideya-tselogina.webp"
+  },
+  {
+    "title": "Спатифиллум",
+    "name": "spatifillum",
+    "icon": "spatifillum.webp"
+  },
+  {
+    "title": "Фаленопсис",
+    "name": "falenopsis",
+    "icon": "falenopsis.png"
+  },
+  {
+    "title": "Фиалка",
+    "name": "fialka",
+    "icon": "fialka.webp"
+  },
+  {
+    "title": "Фикус Микрокарпа",
+    "name": "fikus-mikrokarpa",
+    "icon": "fikus-mikrokarpa.webp"
+  },
+  {
+    "title": "Фикус Панда",
+    "name": "fikus-panda",
+    "icon": "fikus-panda.webp"
+  },
+  {
+    "title": "Герань",
+    "name": "geran",
+    "icon": "geran.webp"
+  },
+  {
+    "title": "Ховея",
+    "name": "hoveya",
+    "icon": "hoveya.webp"
+  },
+  {
+    "title": "Хедера Плющ",
+    "name": "hedera",
+    "icon": "931CA98B-1AD6-4BE3-83D4-8E6A88ABDB60.webp"
+  },
+  {
+    "title": "Шеффлера",
+    "name": "shefflera",
+    "icon": "shefflera.png"
+  },
+  {
+    "title": "Удобрения",
+    "name": "udobreniya-dlya-komnatnyx-rastenij",
+    "icon": "udobreniya.webp"
+  },
+  {
+    "title": "Болезни и вредители",
+    "name": "bolezni-i-vrediteli-komnatnyx-rastenij",
+    "icon": "vrediteli.webp"
+  },
+  {
+    "title": "Повреждения",
+    "name": "povrejdenia-rastenij",
+    "icon": "damaged-flower.webp"
+  },
+  {
+    "title": "Влияние сезонов",
+    "name": "sezony-rastenij",
+    "icon": "seasons-impact.webp"
+  }
+]

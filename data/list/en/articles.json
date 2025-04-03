@@ -1,0 +1,127 @@
+﻿[
+  {
+    "title": "Aloe Vera",
+    "name": "aloe-stoletnik",
+    "icon": "aloe-stoletnik.webp"
+  },
+  {
+    "title": "Anthurium",
+    "name": "anturiumom",
+    "icon": "Антриум.png"
+  },
+  {
+    "title": "Azalea",
+    "name": "azalia",
+    "icon": "azalia.png"
+  },
+  {
+    "title": "Begonia",
+    "name": "begoniy",
+    "icon": "11.webp"
+  },
+  {
+    "title": "Brighamia",
+    "name": "brigamiya",
+    "icon": "brigamiya.webp"
+  },
+  {
+    "title": "Dracaena",
+    "name": "dracena",
+    "icon": "dracena.webp"
+  },
+  {
+    "title": "Zamioculcas",
+    "name": "zamiokulkas",
+    "icon": "zamiokulkas.webp"
+  },
+  {
+    "title": "Monantes",
+    "name": "monantes",
+    "icon": "monantes.webp"
+  },
+  {
+    "title": "Venus Flytrap",
+    "name": "muholovka",
+    "icon": "muholovka.png"
+  },
+  {
+    "title": "White-haired Opuntia",
+    "name": "opuntsiya",
+    "icon": "opuntsii.png"
+  },
+  {
+    "title": "Ludisia Orchid",
+    "name": "orhideya-ludiziya",
+    "icon": "orhideya-ludiziya.webp"
+  },
+  {
+    "title": "Cologina Orchid",
+    "name": "orhideya-tselogina",
+    "icon": "orhideya-tselogina.webp"
+  },
+  {
+    "title": "Spathiphyllum",
+    "name": "spatifillum",
+    "icon": "spatifillum.webp"
+  },
+  {
+    "title": "Phalaenopsis",
+    "name": "falenopsis",
+    "icon": "falenopsis.png"
+  },
+  {
+    "title": "Violet",
+    "name": "fialka",
+    "icon": "fialka.webp"
+  },
+  {
+    "title": "Ficus Microcarpa",
+    "name": "fikus-mikrokarpa",
+    "icon": "fikus-mikrokarpa.webp"
+  },
+  {
+    "title": "Ficus Panda",
+    "name": "fikus-panda",
+    "icon": "fikus-panda.webp"
+  },
+  {
+    "title": "Geranium",
+    "name": "geran",
+    "icon": "geran.webp"
+  },
+  {
+    "title": "Howea",
+    "name": "hoveya",
+    "icon": "hoveya.webp"
+  },
+  {
+    "title": "Ivy (Hedera)",
+    "name": "hedera",
+    "icon": "931CA98B-1AD6-4BE3-83D4-8E6A88ABDB60.webp"
+  },
+  {
+    "title": "Schefflera",
+    "name": "shefflera",
+    "icon": "shefflera.png"
+  },
+  {
+    "title": "Fertilizers",
+    "name": "udobreniya-dlya-komnatnyx-rastenij",
+    "icon": "udobreniya.webp"
+  },
+  {
+    "title": "Diseases and Pests",
+    "name": "bolezni-i-vrediteli-komnatnyx-rastenij",
+    "icon": "vrediteli.webp"
+  },
+  {
+    "title": "Plant Damages",
+    "name": "povrejdenia-rastenij",
+    "icon": "damaged-flower.webp"
+  },
+  {
+    "title": "Seasonal Effects on Plants",
+    "name": "sezony-rastenij",
+    "icon": "seasons-impact.webp"
+  }
+]
