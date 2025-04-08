@@ -1,5 +1,10 @@
 ﻿[
   {
+    "title": "Азалия",
+    "name": "azalia",
+    "icon": "azalia.png"
+  },
+  {
     "title": "Алоэ Столетник",
     "name": "aloe-stoletnik",
     "icon": "aloe-stoletnik.webp"
@@ -10,11 +15,6 @@
     "icon": "Антриум.png"
   },
   {
-    "title": "Азалия",
-    "name": "azalia",
-    "icon": "azalia.png"
-  },
-  {
     "title": "Бегония",
     "name": "begoniy",
     "icon": "11.webp"
@@ -23,6 +23,11 @@
     "title": "Бригамия",
     "name": "brigamiya",
     "icon": "brigamiya.webp"
+  },
+  {
+    "title": "Герань",
+    "name": "geran",
+    "icon": "geran.webp"
   },
   {
     "title": "Драцена",
@@ -85,19 +90,14 @@
     "icon": "fikus-panda.webp"
   },
   {
-    "title": "Герань",
-    "name": "geran",
-    "icon": "geran.webp"
+    "title": "Хедера Плющ",
+    "name": "hedera",
+    "icon": "931CA98B-1AD6-4BE3-83D4-8E6A88ABDB60.webp"
   },
   {
     "title": "Ховея",
     "name": "hoveya",
     "icon": "hoveya.webp"
-  },
-  {
-    "title": "Хедера Плющ",
-    "name": "hedera",
-    "icon": "931CA98B-1AD6-4BE3-83D4-8E6A88ABDB60.webp"
   },
   {
     "title": "Шеффлера",
