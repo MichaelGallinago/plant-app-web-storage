@@ -25,54 +25,14 @@
     "icon": "brigamiya.webp"
   },
   {
-    "title": "Dracaena",
-    "name": "dracena",
-    "icon": "dracena.webp"
-  },
-  {
-    "title": "Zamioculcas",
-    "name": "zamiokulkas",
-    "icon": "zamiokulkas.webp"
-  },
-  {
-    "title": "Monantes",
-    "name": "monantes",
-    "icon": "monantes.webp"
-  },
-  {
-    "title": "Venus Flytrap",
-    "name": "muholovka",
-    "icon": "muholovka.png"
-  },
-  {
-    "title": "White-haired Opuntia",
-    "name": "opuntsiya",
-    "icon": "opuntsii.png"
-  },
-  {
-    "title": "Ludisia Orchid",
-    "name": "orhideya-ludiziya",
-    "icon": "orhideya-ludiziya.webp"
-  },
-  {
     "title": "Cologina Orchid",
     "name": "orhideya-tselogina",
     "icon": "orhideya-tselogina.webp"
   },
   {
-    "title": "Spathiphyllum",
-    "name": "spatifillum",
-    "icon": "spatifillum.webp"
-  },
-  {
-    "title": "Phalaenopsis",
-    "name": "falenopsis",
-    "icon": "falenopsis.png"
-  },
-  {
-    "title": "Violet",
-    "name": "fialka",
-    "icon": "fialka.webp"
+    "title": "Dracaena",
+    "name": "dracena",
+    "icon": "dracena.webp"
   },
   {
     "title": "Ficus Microcarpa",
@@ -100,9 +60,49 @@
     "icon": "931CA98B-1AD6-4BE3-83D4-8E6A88ABDB60.webp"
   },
   {
+    "title": "Ludisia Orchid",
+    "name": "orhideya-ludiziya",
+    "icon": "orhideya-ludiziya.webp"
+  },
+  {
+    "title": "Monantes",
+    "name": "monantes",
+    "icon": "monantes.webp"
+  },
+  {
+    "title": "Phalaenopsis",
+    "name": "falenopsis",
+    "icon": "falenopsis.png"
+  },
+  {
     "title": "Schefflera",
     "name": "shefflera",
     "icon": "shefflera.png"
+  },
+  {
+    "title": "Spathiphyllum",
+    "name": "spatifillum",
+    "icon": "spatifillum.webp"
+  },
+  {
+    "title": "Venus Flytrap",
+    "name": "muholovka",
+    "icon": "muholovka.png"
+  },
+  {
+    "title": "Violet",
+    "name": "fialka",
+    "icon": "fialka.webp"
+  },
+  {
+    "title": "White-haired Opuntia",
+    "name": "opuntsiya",
+    "icon": "opuntsii.png"
+  },
+  {
+    "title": "Zamioculcas",
+    "name": "zamiokulkas",
+    "icon": "zamiokulkas.webp"
   },
   {
     "title": "Fertilizers",
