@@ -105,6 +105,11 @@
     "icon": "shefflera.png"
   },
   {
+    "title": "Эпипремнум",
+    "name": "epipremnum",
+    "icon": "epipremnum.webp"
+  },
+  {
     "title": "Удобрения",
     "name": "udobreniya-dlya-komnatnyx-rastenij",
     "icon": "udobreniya.webp"
@@ -124,4 +129,5 @@
     "name": "sezony-rastenij",
     "icon": "seasons-impact.webp"
   }
+  
 ]
