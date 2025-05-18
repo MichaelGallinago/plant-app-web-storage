@@ -1,4 +1,5 @@
 {
     "plantName": "Алое Столетник",
-    "interval": 25
+    "interval": 25,
+	"isVaterSprayingEnabled": true
   }
