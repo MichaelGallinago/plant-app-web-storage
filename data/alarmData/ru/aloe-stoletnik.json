@@ -1,5 +1,6 @@
 {
     "plantName": "Алое Столетник",
     "interval": 25,
-	"isWaterSprayingEnabled": true
+    "fertilizingInterval": 50,
+	"waterSprayingInterval": 7
 }
