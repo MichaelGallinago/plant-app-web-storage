@@ -1,4 +1,5 @@
 {
     "plantName": "Фикус Панда",
-    "interval": 3
+    "interval": 3,
+    "waterSprayingInterval": 3
 }

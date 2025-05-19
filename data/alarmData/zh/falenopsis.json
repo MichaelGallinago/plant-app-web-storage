@@ -1,4 +1,5 @@
 {
     "plantName": "蝴蝶兰",
-    "interval": 28
-  }
+    "interval": 28,
+    "waterSprayingInterval": 2
+}

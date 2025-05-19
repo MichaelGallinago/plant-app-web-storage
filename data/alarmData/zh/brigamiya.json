@@ -1,4 +1,5 @@
 {
     "plantName": "火山掌",
-    "interval": 30
+    "interval": 30,
+    "waterSprayingInterval": 10
 }

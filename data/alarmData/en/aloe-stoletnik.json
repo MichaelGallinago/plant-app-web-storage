@@ -1,4 +1,5 @@
 {
     "plantName": "Aloe Agave",
-    "interval": 25
-  }
+    "interval": 25,
+    "waterSprayingInterval": 7
+}

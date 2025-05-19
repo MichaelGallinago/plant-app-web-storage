@@ -1,4 +1,5 @@
 {
     "plantName": "芦荟",
-    "interval": 25
-  }
+    "interval": 25,
+    "waterSprayingInterval": 7
+}

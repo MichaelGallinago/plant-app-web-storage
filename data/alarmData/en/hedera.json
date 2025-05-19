@@ -1,4 +1,5 @@
 {
-    "plantName": "Hedera",
-    "interval": 3
+    "plantName": "Hedera (Ivy)",
+    "interval": 3,
+    "waterSprayingInterval": 2
 }

@@ -1,4 +1,5 @@
 {
     "plantName": "Бригамия",
-    "interval": 30
+    "interval": 30,
+    "waterSprayingInterval": 10
 }

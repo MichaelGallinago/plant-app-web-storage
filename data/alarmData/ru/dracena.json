@@ -1,4 +1,5 @@
 {
     "plantName": "Драцена",
-    "interval": 15
+    "interval": 15,
+    "waterSprayingInterval": 3
 }

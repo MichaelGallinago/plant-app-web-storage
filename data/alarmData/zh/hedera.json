@@ -1,4 +1,5 @@
 {
     "plantName": "常春藤",
-    "interval": 3
+    "interval": 3,
+    "waterSprayingInterval": 2
 }

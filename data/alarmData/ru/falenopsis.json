@@ -1,4 +1,5 @@
 {
     "plantName": "Орхидея Фаленопсис",
-    "interval": 28
-  }
+    "interval": 28,
+    "waterSprayingInterval": 2
+}

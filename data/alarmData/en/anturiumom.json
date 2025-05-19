@@ -1,4 +1,5 @@
 {
-    "plantName": "Antrium",
-    "interval": 15
+    "plantName": "Anthurium",
+    "interval": 15,
+    "waterSprayingInterval": 1
 }
