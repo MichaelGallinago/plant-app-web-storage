@@ -1,4 +1,5 @@
 {
     "plantName": "Орхидея Целогина",
-    "interval": 20
+    "interval": 20,
+    "waterSprayingInterval": 2
 }

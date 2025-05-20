@@ -1,4 +1,5 @@
 {
     "plantName": "Замиокулькас",
-    "interval": 30
+    "interval": 30,
+    "waterSprayingInterval": 15
   }

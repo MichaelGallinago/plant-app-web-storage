@@ -1,4 +1,5 @@
 {
     "plantName": "Спатифиллум",
-    "interval": 4
+    "interval": 4,
+    "waterSprayingInterval": 1
   }
